@@ -1,6 +1,6 @@
 //HLONGWANE FUNDISWA
 //0204020990089
-//L3B SUBTASK2
+//L3B subtask 2
 #include <iostream>
 #include <algorithm>
 #include <ctime>
