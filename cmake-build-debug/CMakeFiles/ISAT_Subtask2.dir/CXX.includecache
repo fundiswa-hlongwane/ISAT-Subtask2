@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Student/Documents/Fundiswa Hlongwane ISAT/Source Code/New folder/ISAT-Subtask2/ISAT SUBTASK2.cpp
+iostream
+-
+algorithm
+-
+ctime
+-
+cstdlib
+-
+string
+-
+
